@@ -7,6 +7,7 @@
 - Hardware:
     - [Bill of materials](https://github.com/upkie/upkie/wiki/Bill-of-materials)
     - [Build instructions](https://github.com/upkie/upkie/wiki)
+    - [CAD files](https://github.com/upkie/upkie_parts)
 - Software:
     - [Installation](https://github.com/upkie/upkie#installation)
     - [Documentation](https://upkie.github.io/upkie/)
