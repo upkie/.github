@@ -11,6 +11,7 @@
 - Software:
     - [Installation](https://github.com/upkie/upkie#installation)
     - [Documentation](https://upkie.github.io/upkie/)
+    - [Main repository](https://github.com/upkie/upkie)
 
 ## Agents
 
