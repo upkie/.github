@@ -1,8 +1,8 @@
 **Upkie** is an open source wheeled biped robot design with wheels for balancing and legs to negotiate uneven terrains. Upkies are designed to be buildable using only tools and components ordered online, like mjbots actuators. Here are some [videos](https://www.youtube.com/@upkie) of Upkies in action.
 
-- Getting started: [Examples](https://github.com/upkie/upkie/tree/main/examples), [Videos](https://www.youtube.com/@upkie) 
-- Hardware: [Bill of materials](https://github.com/upkie/upkie/wiki/Bill-of-materials), [Build instructions](https://github.com/upkie/upkie/wiki), [CAD files](https://github.com/upkie/upkie_parts)
-- Software: [Installation](https://github.com/upkie/upkie#installation), [Documentation](https://upkie.github.io/upkie/), [Main repository](https://github.com/upkie/upkie)
+- Getting started: [Examples](https://github.com/upkie/upkie/tree/main/examples) and [Videos](https://www.youtube.com/@upkie)
+- Hardware: [Bill of materials](https://github.com/upkie/upkie/wiki/Bill-of-materials), [Build instructions](https://github.com/upkie/upkie/wiki) and [CAD files](https://github.com/upkie/upkie_parts)
+- Software: [Main repository](https://github.com/upkie/upkie), [Installation instructions](https://github.com/upkie/upkie#installation) and [Documentation](https://upkie.github.io/upkie/)
 
 ## Agents
 
