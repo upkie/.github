@@ -1,3 +1,3 @@
 # .github
 
-GitHub files for the Upkie project organization.
+Repository for the GitHub organization of the Upkie project.
